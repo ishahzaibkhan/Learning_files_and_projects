@@ -22,5 +22,6 @@ huggingface-hub
 python-dotenv
 
 # Machine Learning Utilities
+pandas
 numpy
 scikit-learn

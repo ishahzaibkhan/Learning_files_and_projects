@@ -24,6 +24,10 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Folders
+./Deep_learning_with_python_BOOK\PyTorchStepByStep
+
 MANIFEST
 
 # PyInstaller
